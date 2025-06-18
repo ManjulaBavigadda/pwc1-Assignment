@@ -26,6 +26,8 @@ Coverage: Global port performance data
 Update Frequency: Annual/Semi-annual
 Data Provider: MarineTraffic integration
 
+https://github.com/ManjulaBavigadda/pwc1-Assignment/blob/c8206876df272a98c514f1e0ce4e91dba993fd33/coceptual%20ER%20DIAGRAM.png
+
 Economy Classification
 UNCTAD Economy Codes
 
