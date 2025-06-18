@@ -267,5 +267,6 @@ Calculated performance scores and rankings
 Time-series analysis capabilities
 
 ![image alt](https://github.com/ManjulaBavigadda/pwc1-Assignment/blob/209fd5fd3cf582390fd884495beccaef402046f4/coceptual%20ER%20DIAGRAM.png)
+![image alt](https://github.com/ManjulaBavigadda/pwc1-Assignment/blob/493537cbc1e320296385b75c6bc8aa9e55e3ca6b/output%202.mp4)
 
 
